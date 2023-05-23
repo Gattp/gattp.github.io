@@ -61,7 +61,8 @@ function App() {
           <SuccessiveType
             onEnd={onIntroEnd}
             words={
-              "Ciao, sono Tommaso Martarelli, studente all'IIS Marconi Pieralisi di Jesi. Questo sito ha l'intento di esporre me e tutte le esperienze effettuate all'interno e all'esterno della scuola nell'ultimo anno. Buona continuazione!"
+              "Ciao, sono Tommaso Martarelli, studente dell'IIS Marconi Pieralisi di Jesi. 
+              Questo sito ha l'intento di descrivere e mettere in pratica tutte le conoscenze acquisite durante il periodo scolastico, ma soprattutto di farmi conoscere. Buona continuazione!"
             }
             speed={1}
             userSkipped={introEnded}

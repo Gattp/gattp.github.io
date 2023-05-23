@@ -63,7 +63,7 @@ const Citizenship = () => (
       ~
     </p>
 
-    <h2>Inglese</h2>
+    <h2>English</h2>
 
     <p>Fake news refers to false or misleading information presented as factual news. It can be spread through various mediums, including social media, websites, television, and print media.</p>
 
