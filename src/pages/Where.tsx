@@ -19,18 +19,6 @@ const Where = () => {
       <h1>/progetti</h1>
       <h3>Aziende</h3>
       <CoWrapper>
-      <Co
-          url="https://tommasomartarelli.onrender.com/public/AziendaPrincipi.pdf"
-          name="Brexit, fake-news and Facebook"
-          iconReference={Brexit}
-          tagline="Inglese"
-          role={'Partecipante'}
-          what={
-            "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
-          }
-          pretext='ho fatto'
-          when='2022'
-        />
         <Co
           url="https://www.altesia.it/"
           name="PCTO"
@@ -41,7 +29,19 @@ const Where = () => {
             "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
           }
           pretext='ho fatto'
-          when='2022'
+          when='Giugno/Settembre 2022'
+        />
+        <Co
+          url="https://tommasomartarelli.onrender.com/public/LavoroEdCivica_Inglese(BarcanMoscaMandoliniMartarelli).pptx.pdf"
+          name="Brexit, fake-news and Facebook"
+          iconReference={Brexit}
+          tagline="Inglese"
+          role={'Partecipante'}
+          what={
+            "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
+          }
+          pretext='ho fatto'
+          when='Dicembre 2022'
         />
         <Co
           url="https://www.altesia.it/"
