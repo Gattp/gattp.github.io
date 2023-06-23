@@ -33,27 +33,27 @@ const Where = () => {
         />
         <Co
           url="https://tommasomartarelli.onrender.com/public/LavoroEdCivica_Inglese(BarcanMoscaMandoliniMartarelli).pptx.pdf"
-          name="Brexit, fake-news and Facebook"
+          name="Brexit, Fake-news and Facebook"
           iconReference={Brexit}
           tagline="Inglese"
-          role={'Partecipante'}
+          role={'Lavoro di gruppo'}
           what={
-            "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
+            "PowerPoint di gruppo per trovare i punti in comune nelle news tra gli argomenti 'Brexit', 'Fake-news' e 'Facebook'"
           }
           pretext='ho fatto'
           when='Dicembre 2022'
         />
         <Co
-          url="https://www.altesia.it/"
-          name="PCTO"
+          url="https://tommasomartarelli.onrender.com/public/CurriculumVitae.pdf"
+          name="Curriculum Vitae"
           iconReference={AltesiaLogo}
-          tagline="Logistica e Produzione"
-          role={'Stagista'}
+          tagline="Inglese"
+          role={'Lavoro personale'}
           what={
-            "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
+            "Curriculm Vitae scritto in lingua inglese"
           }
           pretext='ho fatto'
-          when='2022'
+          when='Dicembre 2022'
         />
         <Co
           url="https://www.altesia.it/"
