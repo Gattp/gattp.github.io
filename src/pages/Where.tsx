@@ -7,6 +7,7 @@ import GigglAppIcon from '../assets/images/giggl-app-icon.jpg';
 import HonkAppIcon from '../assets/images/honk-app-icon.jpg';
 import Repo from '../components/Repo';
 import AltesiaLogo from '../assets/images/PCTO/altesiaLogo807.png';
+import Brexit from '../assets/images/PCTO/brexit.jpg';
 import { Helmet } from 'react-helmet';
 
 const Where = () => {
@@ -19,11 +20,11 @@ const Where = () => {
       <h3>Aziende</h3>
       <CoWrapper>
       <Co
-          url="https://www.altesia.it/"
-          name="PCTO"
-          iconReference={AltesiaLogo}
-          tagline="Logistica e Produzione"
-          role={'Stagista'}
+          url="https://tommasomartarelli.onrender.com/public/AziendaPrincipi.pdf"
+          name="Brexit, fake-news and Facebook"
+          iconReference={Brexit}
+          tagline="Inglese"
+          role={'Partecipante'}
           what={
             "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
           }
