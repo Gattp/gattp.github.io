@@ -8,6 +8,7 @@ import HonkAppIcon from '../assets/images/honk-app-icon.jpg';
 import Repo from '../components/Repo';
 import AltesiaLogo from '../assets/images/PCTO/altesiaLogo807.png';
 import Brexit from '../assets/images/brexit.jpg';
+import Europass from '../assets/images/europass.jpg';
 import { Helmet } from 'react-helmet';
 
 const Where = () => {
@@ -46,7 +47,7 @@ const Where = () => {
         <Co
           url="https://tommasomartarelli.onrender.com/public/CurriculumVitae.pdf"
           name="Curriculum Vitae"
-          iconReference={AltesiaLogo}
+          iconReference={Europass}
           tagline="Inglese"
           role={'Lavoro personale'}
           what={
