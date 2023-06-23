@@ -7,7 +7,7 @@ import GigglAppIcon from '../assets/images/giggl-app-icon.jpg';
 import HonkAppIcon from '../assets/images/honk-app-icon.jpg';
 import Repo from '../components/Repo';
 import AltesiaLogo from '../assets/images/PCTO/altesiaLogo807.png';
-import Brexit from '../assets/images/PCTO/brexit.jpg';
+import Brexit from '../assets/images/brexit.jpg';
 import { Helmet } from 'react-helmet';
 
 const Where = () => {
