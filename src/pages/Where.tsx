@@ -50,7 +50,7 @@ const Where = () => {
           name="Curriculum Vitae"
           iconReference={Europass}
           tagline="Inglese"
-          role={'Lavoro personale'}
+          role={'Lavoro individuale'}
           what={
             "Curriculm Vitae scritto in lingua inglese"
           }
@@ -62,7 +62,7 @@ const Where = () => {
           name="Relazione Sito Personale"
           iconReference={Sito}
           tagline="GPOI"
-          role={'Lavoro personale'}
+          role={'Lavoro individuale'}
           what={
             "Relazione relativa a questo sito web, dove si prevede la realizzazione comprendendo tempi, costi e obiettivi"
           }
@@ -70,31 +70,91 @@ const Where = () => {
           when='Gennaio 2023'
         />
         <Co
-          url="https://www.altesia.it/"
-          name="PCTO"
+          url="https://tommasomartarelli.onrender.com/public/VirginiaWoolf.pdf"
+          name="Virginia Woolf"
           iconReference={AltesiaLogo}
-          tagline="Logistica e Produzione"
-          role={'Stagista'}
+          tagline="Italiano"
+          role={'Lavoro di gruppo'}
           what={
-            "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
+            ""
           }
           pretext='ho fatto'
           when='2022'
         />
         <Co
-          url="https://www.altesia.it/"
-          name="PCTO"
+          url="https://tommasomartarelli.onrender.com/public/tweb.pdf"
+          name="Progetto TWEB"
           iconReference={AltesiaLogo}
-          tagline="Logistica e Produzione"
-          role={'Stagista'}
+          tagline="GPOI"
+          role={'Lavoro di gruppo'}
           what={
-            "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
+            ""
           }
           pretext='ho fatto'
           when='2022'
         />
-      </CoWrapper>
+        <Co
+          url="https://tommasomartarelli.onrender.com/public/gpoi_gestioneproposte.pdf"
+          name="Relazione Gruppo Gestione Proposte"
+          iconReference={AltesiaLogo}
+          tagline="GPOI"
+          role={'Lavoro di gruppo'}
+          what={
+            ""
+          }
+          pretext='ho fatto'
+          when='2022'
+        />
+        <Co
+          url="https://tommasomartarelli.onrender.com/public/invasionediRoma.pdf"
+          name="Invasione di Roma"
+          iconReference={AltesiaLogo}
+          tagline="Storia"
+          role={'Lavoro di gruppo'}
+          what={
+            ""
+          }
+          pretext='ho fatto'
+          when='2022'
+        />
+        <Co
+          url="https://tommasomartarelli.onrender.com/public/bookreview.pdf"
+          name="Book Review"
+          iconReference={AltesiaLogo}
+          tagline="Inglese"
+          role={'Lavoro individuale'}
+          what={
+            ""
+          }
+          pretext='ho fatto'
+          when='2022'
+        />
+        <Co
+          url="https://tommasomartarelli.onrender.com/public/Giappone.pdf"
+          name="Giappone"
+          iconReference={AltesiaLogo}
+          tagline="Storia"
+          role={'Lavoro di gruppo'}
+          what={
+            "PowerPoint sul Giappione relativo al passaggio dal 1800 al 1900"
+          }
+          pretext='ho fatto'
+          when='2022'
+        />
+        <Co
+          url="https://tommasomartarelli.onrender.com/public/Abstract.pdf"
+          name="Abstract"
+          iconReference={AltesiaLogo}
+          tagline="Inglese"
+          role={'Lavoro individuale'}
+          what={
+            "Testo riguardante la creazione di una pagina web"
+          }
+          pretext='ho fatto'
+          when='2022'
+        />
 
+      </CoWrapper>
     </PageWrapper>
   );
 };
