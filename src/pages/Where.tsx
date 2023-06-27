@@ -76,7 +76,7 @@ const Where = () => {
           tagline="Italiano"
           role={'Lavoro di gruppo'}
           what={
-            ""
+            "PowerPoint sulla vita e le opere di V.Woolf"
           }
           pretext='ho fatto'
           when='2022'
@@ -88,7 +88,7 @@ const Where = () => {
           tagline="GPOI"
           role={'Lavoro di gruppo'}
           what={
-            ""
+            "Relazione nella quale viene analizzata una realtà dove si offre la gestione delle prestazioni ambulatoriali in una struttura sanitaria"
           }
           pretext='ho fatto'
           when='2022'
@@ -100,7 +100,7 @@ const Where = () => {
           tagline="GPOI"
           role={'Lavoro di gruppo'}
           what={
-            ""
+            "Relazione comprendente unicamente il gruppo atto alla realizzazione della sezione relativa alla gestione delle proposte di lavoro"
           }
           pretext='ho fatto'
           when='2022'
@@ -112,7 +112,7 @@ const Where = () => {
           tagline="Storia"
           role={'Lavoro di gruppo'}
           what={
-            ""
+            "Gli effetti su Roma dopo l'invasione fascista"
           }
           pretext='ho fatto'
           when='2022'
@@ -124,7 +124,7 @@ const Where = () => {
           tagline="Inglese"
           role={'Lavoro individuale'}
           what={
-            ""
+            "Dettagliata analisi del libro 'IT' in linuga inglese"
           }
           pretext='ho fatto'
           when='2022'
@@ -136,7 +136,7 @@ const Where = () => {
           tagline="Storia"
           role={'Lavoro di gruppo'}
           what={
-            "PowerPoint sul Giappione relativo al passaggio dal 1800 al 1900"
+            "PowerPoint sul Giappione nel passaggio dal 1800 al 1900"
           }
           pretext='ho fatto'
           when='2022'
@@ -153,7 +153,18 @@ const Where = () => {
           pretext='ho fatto'
           when='2022'
         />
-
+        <Co
+          url="https://tommasomartarelli.onrender.com/public/Martarelli_Progetto_VersoIlLavoro-1.pdf"
+          name="Progetto 'Verso il lavoro'"
+          iconReference={AltesiaLogo}
+          tagline="Sistemi"
+          role={'Lavoro individuale'}
+          what={
+            "Relazione riguardante il progetto dell'anno dove si analizza la scelta di hostare il sito all'intreno della rete scolastica mediante un server proprietario, o appoggiandosi ad un servizio offerto da terzi"
+          }
+          pretext='ho fatto'
+          when='2022'
+        />
       </CoWrapper>
     </PageWrapper>
   );
