@@ -34,7 +34,7 @@ const Where = () => {
           when='Giugno/Settembre 2022'
         />
         <Co
-          url="/public/AziendaPrincipi.pdf"
+          url="/public/LavoroEdCivica_Inglese(BarcanMoscaMandoliniMartarelli).pptx.pdf"
           name="Brexit, Fake-news and Facebook"
           iconReference={Brexit}
           tagline="Inglese"
@@ -46,7 +46,7 @@ const Where = () => {
           when='Dicembre 2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/CurriculumVitae.pdf"
+          url="/public/CurriculumVitae.pdf"
           name="Curriculum Vitae"
           iconReference={Europass}
           tagline="Inglese"
@@ -58,7 +58,7 @@ const Where = () => {
           when='Dicembre 2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/Martarelli_GPOI_RelazioneFinale.pdf"
+          url="/public/Martarelli_GPOI_RelazioneFinale.pdf"
           name="Relazione Sito Personale"
           iconReference={Sito}
           tagline="GPOI"
@@ -70,7 +70,7 @@ const Where = () => {
           when='Gennaio 2023'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/VirginiaWoolf.pdf"
+          url="/public/VirginiaWoolf.pdf"
           name="Virginia Woolf"
           iconReference={AltesiaLogo}
           tagline="Italiano"
@@ -82,7 +82,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/tweb.pdf"
+          url="/public/tweb.pdf"
           name="Progetto TWEB"
           iconReference={AltesiaLogo}
           tagline="GPOI"
@@ -94,7 +94,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/gpoi_gestioneproposte.pdf"
+          url="/public/gpoi_gestioneproposte.pdf"
           name="Relazione Gruppo Gestione Proposte"
           iconReference={AltesiaLogo}
           tagline="GPOI"
@@ -106,7 +106,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/invasionediRoma.pdf"
+          url="/public/invasionediRoma.pdf"
           name="Invasione di Roma"
           iconReference={AltesiaLogo}
           tagline="Storia"
@@ -118,7 +118,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/bookreview.pdf"
+          url="/public/bookreview.pdf"
           name="Book Review"
           iconReference={AltesiaLogo}
           tagline="Inglese"
@@ -130,7 +130,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/Giappone.pdf"
+          url="/public/Giappone.pdf"
           name="Giappone"
           iconReference={AltesiaLogo}
           tagline="Storia"
@@ -142,7 +142,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://pdfhost.io/v/fp27l4arM_Martarellis_Abstract"
+          url="/public/Abstract.pdf"
           name="Abstract"
           iconReference={AltesiaLogo}
           tagline="Inglese"
@@ -154,7 +154,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/Martarelli_Progetto_VersoIlLavoro-1.pdf"
+          url="/public/Martarelli_Progetto_VersoIlLavoro-1.pdf"
           name="Progetto 'Verso il lavoro'"
           iconReference={AltesiaLogo}
           tagline="Sistemi"
