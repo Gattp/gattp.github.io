@@ -72,7 +72,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/9lmLrFuwE_Virginia_Woolf"
           name="Virginia Woolf"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="Italiano"
           role={'Lavoro di gruppo'}
           what={
@@ -84,7 +84,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/N1lDuxwLb_Progetto_TWEB"
           name="Progetto TWEB"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="GPOI"
           role={'Lavoro di gruppo'}
           what={
@@ -96,7 +96,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/0joz8mYvdT_Documento_Finale_Gestione_Proposte"
           name="Relazione Gruppo Gestione Proposte"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="GPOI"
           role={'Lavoro di gruppo'}
           what={
@@ -108,7 +108,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/EBMgMy.Hv_Invasione_di_Romapptx"
           name="Invasione di Roma"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="Storia"
           role={'Lavoro di gruppo'}
           what={
@@ -120,7 +120,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/fTLPvK.Qa_Book_Review_by_Martarelli_Tommasodocx"
           name="Book Review"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="Inglese"
           role={'Lavoro individuale'}
           what={
@@ -132,7 +132,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/SolAFzBSA_Giapponepptx"
           name="Giappone"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="Storia"
           role={'Lavoro di gruppo'}
           what={
@@ -144,7 +144,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/fp27l4arM_Martarellis_Abstract"
           name="Abstract"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="Inglese"
           role={'Lavoro individuale'}
           what={
@@ -156,7 +156,7 @@ const Where = () => {
         <Co
           url="https://pdfhost.io/v/S30IN5CBD_Martarelli_ProgettoVersoIlLavoro"
           name="Progetto 'Verso il lavoro'"
-          iconReference={AltesiaLogo}
+          iconReference={Sito}
           tagline="Sistemi"
           role={'Lavoro individuale'}
           what={
