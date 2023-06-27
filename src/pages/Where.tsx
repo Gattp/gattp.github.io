@@ -34,7 +34,7 @@ const Where = () => {
           when='Giugno/Settembre 2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/LavoroEdCivica_Inglese(BarcanMoscaMandoliniMartarelli).pptx.pdf"
+          url="/public/AziendaPrincipi.pdf"
           name="Brexit, Fake-news and Facebook"
           iconReference={Brexit}
           tagline="Inglese"
@@ -142,7 +142,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="https://tommasomartarelli.onrender.com/public/Abstract.pdf"
+          url="https://pdfhost.io/v/fp27l4arM_Martarellis_Abstract"
           name="Abstract"
           iconReference={AltesiaLogo}
           tagline="Inglese"
