@@ -34,7 +34,7 @@ const Where = () => {
           when='Giugno/Settembre 2022'
         />
         <Co
-          url="/public/LavoroEdCivica_Inglese(BarcanMoscaMandoliniMartarelli).pptx.pdf"
+          url="https://pdfhost.io/v/lplKfyh5L_LavoroEdCivica_IngleseBarcanMoscaMandoliniMartarellipptx"
           name="Brexit, Fake-news and Facebook"
           iconReference={Brexit}
           tagline="Inglese"
@@ -46,7 +46,7 @@ const Where = () => {
           when='Dicembre 2022'
         />
         <Co
-          url="/public/CurriculumVitae.pdf"
+          url="https://pdfhost.io/v/7vIQoURE0_Curriculum_Vitae"
           name="Curriculum Vitae"
           iconReference={Europass}
           tagline="Inglese"
@@ -58,7 +58,7 @@ const Where = () => {
           when='Dicembre 2022'
         />
         <Co
-          url="/public/Martarelli_GPOI_RelazioneFinale.pdf"
+          url="https://pdfhost.io/v/qy5r0qPDJ_Martarelli_GPOI_RelazioneFinale"
           name="Relazione Sito Personale"
           iconReference={Sito}
           tagline="GPOI"
@@ -70,7 +70,7 @@ const Where = () => {
           when='Gennaio 2023'
         />
         <Co
-          url="/public/VirginiaWoolf.pdf"
+          url="https://pdfhost.io/v/9lmLrFuwE_Virginia_Woolf"
           name="Virginia Woolf"
           iconReference={AltesiaLogo}
           tagline="Italiano"
@@ -82,7 +82,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="/public/tweb.pdf"
+          url="https://pdfhost.io/v/N1lDuxwLb_Progetto_TWEB"
           name="Progetto TWEB"
           iconReference={AltesiaLogo}
           tagline="GPOI"
@@ -94,7 +94,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="/public/gpoi_gestioneproposte.pdf"
+          url="https://pdfhost.io/v/0joz8mYvdT_Documento_Finale_Gestione_Proposte"
           name="Relazione Gruppo Gestione Proposte"
           iconReference={AltesiaLogo}
           tagline="GPOI"
@@ -106,7 +106,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="/public/invasionediRoma.pdf"
+          url="https://pdfhost.io/v/EBMgMy.Hv_Invasione_di_Romapptx"
           name="Invasione di Roma"
           iconReference={AltesiaLogo}
           tagline="Storia"
@@ -118,7 +118,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="/public/bookreview.pdf"
+          url="https://pdfhost.io/v/fTLPvK.Qa_Book_Review_by_Martarelli_Tommasodocx"
           name="Book Review"
           iconReference={AltesiaLogo}
           tagline="Inglese"
@@ -130,7 +130,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="/public/Giappone.pdf"
+          url="https://pdfhost.io/v/SolAFzBSA_Giapponepptx"
           name="Giappone"
           iconReference={AltesiaLogo}
           tagline="Storia"
@@ -142,7 +142,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="/public/Abstract.pdf"
+          url="https://pdfhost.io/v/fp27l4arM_Martarellis_Abstract"
           name="Abstract"
           iconReference={AltesiaLogo}
           tagline="Inglese"
@@ -154,7 +154,7 @@ const Where = () => {
           when='2022'
         />
         <Co
-          url="/public/Martarelli_Progetto_VersoIlLavoro-1.pdf"
+          url="https://pdfhost.io/v/S30IN5CBD_Martarelli_ProgettoVersoIlLavoro"
           name="Progetto 'Verso il lavoro'"
           iconReference={AltesiaLogo}
           tagline="Sistemi"
