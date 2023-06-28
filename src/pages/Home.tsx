@@ -13,8 +13,8 @@ const Home = () => {
       <h1>/me</h1>
       <h2>Italiano &#127470;&#127481;</h2>
       <p>
-      Sono Tommy, 
-          {/* @ts-ignore */}
+      Sono Tommy,
+          {/* @ts-ignore */}{' '}
         <Tooltip arrow title={'19 Ottobre 2004'}>
           {age}
         </Tooltip>{' '}
