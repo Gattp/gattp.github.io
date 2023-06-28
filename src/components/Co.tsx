@@ -59,7 +59,7 @@ const Co = ({
         <Content>
           <h3>Ruolo</h3>
           <p>{role}</p>
-          <h3>{pretext ? 'ho fatto' : 'faccio'}</h3>
+          <h3>{pretext ? 'Attività svolta' : 'Attività attuale'}</h3>
           <p>{what}</p>
         </Content>
       </Container>
