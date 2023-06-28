@@ -30,7 +30,7 @@ const Where = () => {
           what={
             "Ho lavorato ad un progetto didattico per la gestione centralizzata di vari magazzini di un'azienda. Mi sono avvalso principalmente delle conoscenze relative al C# ed SQL apprese in ambito scolastico. L'obiettivo (poi raggiunto) era lo sviluppo un programma per fornire RESTful API e permettere quindi la visualizzazione e modifica di tutti gli oggetti da qualsiasi client nel mondo. Assieme ad esso, la creazione del database alla base di tutto, comprendendo all'interno le varie sedi, magazzini, oggetti, compratori e venditori."
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='Giugno/Settembre 2022'
         />
         <Co
@@ -42,7 +42,7 @@ const Where = () => {
           what={
             "PowerPoint di gruppo per trovare i punti in comune nelle news tra gli argomenti 'Brexit', 'Fake-news' e 'Facebook'"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='Dicembre 2022'
         />
         <Co
@@ -52,9 +52,9 @@ const Where = () => {
           tagline="Inglese"
           role={'Lavoro individuale'}
           what={
-            "Curriculm Vitae scritto in lingua inglese"
+            "Curriculum Vitae in lingua inglese"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='Dicembre 2022'
         />
         <Co
@@ -64,9 +64,9 @@ const Where = () => {
           tagline="GPOI"
           role={'Lavoro individuale'}
           what={
-            "Relazione relativa a questo sito web, dove si prevede la realizzazione comprendendo tempi, costi e obiettivi"
+            "Relazione inerente la descrizione della realizzazione del sito web con l'aggiunta di tempi, costi e obiettivi"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='Gennaio 2023'
         />
         <Co
@@ -78,7 +78,7 @@ const Where = () => {
           what={
             "PowerPoint sulla vita e le opere di V.Woolf"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
         <Co
@@ -90,7 +90,7 @@ const Where = () => {
           what={
             "Relazione nella quale viene analizzata una realtà dove si offre la gestione delle prestazioni ambulatoriali in una struttura sanitaria"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
         <Co
@@ -102,7 +102,7 @@ const Where = () => {
           what={
             "Relazione comprendente unicamente il gruppo atto alla realizzazione della sezione relativa alla gestione delle proposte di lavoro"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
         <Co
@@ -114,7 +114,7 @@ const Where = () => {
           what={
             "Gli effetti su Roma dopo l'invasione fascista"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
         <Co
@@ -126,7 +126,7 @@ const Where = () => {
           what={
             "Dettagliata analisi del libro 'IT' in linuga inglese"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
         <Co
@@ -136,9 +136,9 @@ const Where = () => {
           tagline="Storia"
           role={'Lavoro di gruppo'}
           what={
-            "PowerPoint sul Giappione nel passaggio dal 1800 al 1900"
+            "Powerpoint relativo alla storia del Giappone, nel periodo tra il 19esimo e il 20esimo secolo."
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
         <Co
@@ -150,7 +150,7 @@ const Where = () => {
           what={
             "Testo riguardante la creazione di una pagina web"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
         <Co
@@ -162,7 +162,7 @@ const Where = () => {
           what={
             "Relazione riguardante il progetto dell'anno dove si analizza la scelta di hostare il sito all'intreno della rete scolastica mediante un server proprietario, o appoggiandosi ad un servizio offerto da terzi"
           }
-          pretext='ho fatto'
+          pretext='Attività svolte'
           when='2022'
         />
       </CoWrapper>

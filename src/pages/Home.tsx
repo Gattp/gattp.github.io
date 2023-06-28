@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <PageWrapper forceReadableWidth>
       <h1>/me</h1>
-      <h2>Italiano &#127470</h2>
+      <h2>Italiano 🇮🇹 &#127470;&#127481; &#x1F1EE;&#x1F1F9; &#127470</h2>
       <p>
       Sono Tommy, 
 {/* @ts-ignore */}
